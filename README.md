@@ -39,5 +39,6 @@ NOTE: if the server encounters the error in one thread, **only that ONE THREAD w
 
 ![1 thread remaining](https://github.com/robyerts/Client-Server-ls-cat/blob/master/1-thread-remaining.png)
 
-In case of reaching the maximum limit a server can handle
+In case of reaching the maximum limit a server can handle , the client is simply REJECTED and receives a 231 error = "All pipe instances are busy" 
+![limit reached](https://github.com/robyerts/Client-Server-ls-cat/blob/master/limit-reached.png)
 
