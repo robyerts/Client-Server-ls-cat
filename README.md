@@ -7,6 +7,8 @@ The application imitates the **ls** and **cat** commands from the Unix Shell ter
 
 ![server parameters](https://github.com/robyerts/Client-Server-ls-cat/blob/master/serverParameters.png)
 
+The slashes in the path name can either be '\' or '/' or even a combination of those. The path can even be put between double quotes.
+
 #### Both commands are represented as integers :
 
 - **ls** - 1
@@ -14,6 +16,8 @@ The application imitates the **ls** and **cat** commands from the Unix Shell ter
 
 The **client** will have to enter one of the above and then select the path of the directory/file.
 For **ls** the *path* is relative to the directory given as first argument to the server .
+
+![ls sample](https://github.com/robyerts/Client-Server-ls-cat/blob/master/run-ls-sample.png)
 
 
 
