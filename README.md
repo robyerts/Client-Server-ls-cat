@@ -22,5 +22,8 @@ For **ls**, the path is relative to the directory given as first argument to the
 On the other hand, **cat** takes the FULL PATH of a file as input , whether the file is inside the server directory is irrelevant.
 ![cat sample](https://github.com/robyerts/Client-Server-ls-cat/blob/master/slashes.png)
 
+In order to close the **client.exe** you simply enter a command that's different from 1 or 2
+![client closing](https://github.com/robyerts/Client-Server-ls-cat/blob/master/client-closing.png)
+
 
 
