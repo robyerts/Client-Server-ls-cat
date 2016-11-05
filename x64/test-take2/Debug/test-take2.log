@@ -1,0 +1,16 @@
+﻿  server.cpp
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(94): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(94): note: placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(94): note: the missing variadic argument 3 is required by format string '%d'
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(109): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(109): note: placeholders and their parameters expect 3 variadic arguments, but 2 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(109): note: the missing variadic argument 3 is required by format string '%d'
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(148): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(148): note: placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(148): note: the missing variadic argument 1 is required by format string '%d'
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(159): warning C4101: 'uFrom': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(157): warning C4101: 'pTo': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(159): warning C4101: 'uN': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(156): warning C4101: 'pFrom': unreferenced local variable
+  test-take2.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\server.exe
+  test-take2.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\server.pdb (Full PDB)

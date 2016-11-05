@@ -1,0 +1,12 @@
+﻿  client.cpp
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(115): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(115): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(131): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(131): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(131): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(131): note: this argument is used as a buffer size
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(239): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(239): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(239): note: the missing variadic argument 1 is required by format string '%d'
+  client.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\client.exe
+  client.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\client.pdb (Full PDB)
