@@ -37,5 +37,7 @@ In case an **error** is encountered, the server/client will print the error code
 
 NOTE: if the server encounters the error in one thread, **only that ONE THREAD will become UNUASABLE**, while the rest will still be working properly.
 
+![1 thread remaining](https://github.com/robyerts/Client-Server-ls-cat/blob/master/1-thread-remaining.png)
+
 In case of reaching the maximum limit a server can handle
 
