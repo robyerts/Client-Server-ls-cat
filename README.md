@@ -7,8 +7,8 @@ The application imitates the **ls** and **cat** commands from the Unix Shell ter
 
 #### Both commands are represented as integers :
 
--**ls** - 1
--**cat** -2
+- **ls** - 1
+- **cat** -2
 
 
 
