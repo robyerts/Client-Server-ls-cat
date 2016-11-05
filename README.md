@@ -19,5 +19,8 @@ For **ls** the *path* is relative to the directory given as first argument to th
 
 ![ls sample](https://github.com/robyerts/Client-Server-ls-cat/blob/master/ls-run-sample.png)
 
+On the other hand, **cat** takes the FULL PATH of a file as input , whether the file is inside the server directory is irrelevant.
+![cat sample](https://github.com/robyerts/Client-Server-ls-cat/blob/master/slashes.png)
+
 
 
