@@ -15,7 +15,7 @@ The slashes in the path name can either be '\' or '/' or even a combination of t
 - **cat** -2
 
 The **client** will have to enter one of the above and then select the path of the directory/file.
-For **ls** the *path* is relative to the directory given as first argument to the server .
+For **ls**, the path is relative to the directory given as first argument to the server .
 
 ![ls sample](https://github.com/robyerts/Client-Server-ls-cat/blob/master/ls-run-sample.png)
 
