@@ -33,5 +33,9 @@ In order to close the **client.exe** you simply enter a command that's different
 
 ![client closing](https://github.com/robyerts/Client-Server-ls-cat/blob/master/client-closing.png)
 
+In case an **error** is encountered, the server/client will print the error code and the function that generated the error; afterwards it enters sleep for 10 sec and closes itself.
 
+NOTE: if the server encounters the error in one thread, **only that ONE THREAD will become UNUASABLE**, while the rest will still be working properly.
+
+In case of reaching the maximum limit a server can handle
 
