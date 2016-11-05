@@ -26,7 +26,7 @@ On the other hand, **cat** takes the FULL PATH of a file as input ; whether the 
 If everything runs smooth, the **server** will display only the initialization and termination of connections between threads and clients.
 
 
-![client closing](https://github.com/robyerts/Client-Server-ls-cat/blob/master/client-closing.png)
+![client closing](https://github.com/robyerts/Client-Server-ls-cat/blob/master/connections-closed.png)
 
 In order to close the **client.exe** you simply enter a command that's different from 1 or 2
 
