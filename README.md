@@ -5,7 +5,7 @@ The application imitates the **ls** and **cat** commands from the Unix Shell ter
 
 **server.exe** is run with 2 parameters , the first being the directory we are currently in (used as reference director in the **ls** command) and the second represents the number of threads the server should run on.
 
-[server parameters](https://github.com/robyerts/Client-Server-ls-cat/blob/master/serverParameters.png)
+![server parameters](https://github.com/robyerts/Client-Server-ls-cat/blob/master/serverParameters.png)
 
 #### Both commands are represented as integers :
 
