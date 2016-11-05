@@ -1,0 +1,7 @@
+﻿  client.cpp
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(124): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(124): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(124): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\client\client.cpp(124): note: this argument is used as a buffer size
+  client.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\client.exe
+  client.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\Debug\client.pdb (Full PDB)

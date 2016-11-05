@@ -1,0 +1,13 @@
+﻿  server.cpp
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(72): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(181): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(198): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(147): warning C4101: 'uFrom': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(145): warning C4101: 'pTo': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(147): warning C4101: 'uN': unreferenced local variable
+c:\users\robyerts\desktop\techchallenge\sistemeoperare\lastcourse\test-take2-fin -duplextooutbound\test-take2\server.cpp(144): warning C4101: 'pFrom': unreferenced local variable
+  test-take2.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\x64\Debug\server.exe
+  test-take2.vcxproj -> C:\Users\robyerts\Desktop\techChallenge\SistemeOperare\lastCourse\test-take2-FIN -duplexToOutbound\x64\Debug\server.pdb (Full PDB)
